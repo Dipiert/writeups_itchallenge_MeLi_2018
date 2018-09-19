@@ -1,4 +1,4 @@
-# Write-ups del IT-Challenge de Mercado Libre 2018#
+# Write-ups del IT-Challenge de Mercado Libre 2018
 
 Contiene mis soluciones para:
 
