@@ -50,7 +50,7 @@ Con esta información ya estaba en condiciones de usar una herramienta para calc
 ```
 $ ./rsatool.py -p 57248512388615138300979959427360676128469 -q 1094782941871623486260250734009229761 -o priv.key
 ```
-Con la clave privada ya podía desecriptar el mensaje usando openssl:
+Con la clave privada ya podía desencriptar el mensaje usando openssl:
 ```
 $ openssl rsautl -decrypt -in data -out /dev/stdout -inkey priv.key
 ```
