@@ -1,4 +1,6 @@
 #### Score: 150
+# Nombre:
+Decorando
 # Consigna:
 Mercado Libre se está expandiendo, por ello estamos construyendo una nueva oficina. La misma está en proceso de construcción. Sin embargo el equipo encargado de la decoración está en un dilema y solicitó ayuda a IT.
 

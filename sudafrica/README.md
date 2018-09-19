@@ -1,5 +1,6 @@
 #### Score: 400
-
+# Nombre: 
+Ghost Audio
 # Consigna:
 El siguiente audio tiene la respuesta que buscás.
 www.melaniesclar.com/itchallenge/problem10.wav

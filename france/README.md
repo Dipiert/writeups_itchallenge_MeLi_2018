@@ -1,5 +1,6 @@
 #### Score: 50
-
+# Nombre: 
+Balanced Strings.
 # Consigna:
 Julia tiene cadena de caracteres, s, compuesta por las letras a, b, c y d. Se dice que la cadena de caracteres está equilibrada si se cumplen las dos condiciones siguientes:
  

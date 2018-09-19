@@ -1,5 +1,7 @@
 #### Score: 350
 
+# Nombre:
+Broken RSA.
 # Consigna:
 El sistema de encriptación RSA, como parte de la fase de generación de claves públicas y privadas, debe generar dos números primos grandes p y q y un número n = p*q que se usará luego para encriptar y desencriptar mensajes (ver https://simple.wikipedia.org/wiki/RSA_algorithm)
 

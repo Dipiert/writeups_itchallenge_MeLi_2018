@@ -1,5 +1,6 @@
 #### Score: 50
-
+# Nombre:
+The Perfect Team.
 # Consigna:
 La Escuela de Idiomas y Ciencias enseña cinco materias: Física, Química, Matemáticas, Botánica y Zoología. Cada estudiante es experto en una materia. Las habilidades de los alumnos se describen mediante una string de las habilidades citadas que consta de las letras p, c, m, b y z solamente. Cada carácter describe la habilidad de un estudiante de la siguiente manera:
 p → Física.

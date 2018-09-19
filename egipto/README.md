@@ -1,5 +1,6 @@
-
 #### Score: 150
+# Nombre:
+Enigma.
 # Consigna:
 lospa ramet rospa rares olver son:
 R1 = VIII / Pos = 1 / Ring = 1

@@ -1,5 +1,6 @@
 #### Score: 50
-
+# Nombre:
+Pages.
 # Consigna:
 Arturo es un escritor aficionado de novelas de misterios. Hace pocos días ha terminado su último libro y, hasta ahora, su mejor obra, titulada "El Misterio de la Mano". No solo eso, Arturo acaba de firmar un contrato con una editorial para que lo ayude a comercializar su libro y lograr que el mundo conozca su trabajo.
 
